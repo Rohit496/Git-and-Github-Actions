@@ -1,0 +1,12 @@
+h1 {
+  color: red;
+  background-color: yellow;
+  font-size: 50px;
+  text-align: center;
+  font-family: "Times New Roman", Times, serif;
+  font-weight: bold;
+  text-decoration: underline;
+  text-transform: uppercase;
+  letter-spacing: 5px;
+  word-spacing: 10px;
+}
